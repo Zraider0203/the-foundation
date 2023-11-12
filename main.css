@@ -1,0 +1,52 @@
+/* This is a CSS comment for your information */
+
+/*
+    selector{
+        property: value;
+    }
+
+*/
+
+
+/* Using CSS style the body tag of any HTML page that uses me or references me */
+body{
+    /* Setting the background color of the body tag to aquamarine */
+    background-color: rgb(75, 176, 243);
+    /* Set the text color to a darker color than the background */
+    color: rgba(182, 33, 78, 0.74);
+}
+
+/* Let's use CSS to style the Nav properties */
+nav{
+    /* Set the height of the nav bar to 600px */
+    height: 800px;
+    /* width - set to 200px */
+    width: 200px;
+    /* foat - set to left */
+    float: left;
+    /* padding - set to 5px */
+    padding: 5px;
+    /* line-height - set to 30px */
+    line-height: 30px;
+}
+
+/* Let's use CSS to style the footer properties */
+footer{
+    /* text-align - set to center */
+    text-align: center;
+    /* margin-right - set to 200px */
+    margin-right: 200px;
+}
+
+/* Let's Style the memImage properties */
+memeImage{
+    /* margin-right - set to 200px */
+    margin-right: 200px;
+}
+
+/* Let's style the header properties */
+header{
+    /* text-align - set to center */
+    text-align: center;
+}
+
